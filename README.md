@@ -22,7 +22,7 @@ Usage
 =====
 You can render html from haml buffer in 5 ways:
 
-1. in Vim's terminal: 
+1. as Vim output to see preview: 
         <c-h><c-p> or :call Haml2HtmlView()
 2. in new buffer: 
         <c-h><c-n> or :call Haml2HtmlNew()
