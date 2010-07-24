@@ -14,8 +14,8 @@ How to install
 --------------
 Copy:
 
-* haml\_buf2html.vim file into your .vim/plugin directory
-* haml\_buf2html.rb file into your .vim/ruby directory
+* haml\_buf2html.vim file into your $VIMHOME/plugin directory
+* haml\_buf2html.rb file into your $VIMHOME/ruby directory
 
 
 Usage
