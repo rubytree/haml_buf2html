@@ -1,6 +1,6 @@
 haml_buf2html
 =============
-haml\_buf2html is a simple vim plugin written in [ruby], that renders html from [haml] directly in vim.
+Haml\_buf2html is a simple Vim plugin written in [ruby], that renders html from [haml] directly in Vim.
 You can use it to write your plain html faster by writing it in [haml] or to preview how your [haml] will be rendered.
 
 Instalation
@@ -13,6 +13,7 @@ Make sure you have installed [vim-ruby], [rubygems] and [haml] gem on your syste
 How to install
 --------------
 Copy:
+
 * haml\_buf2html.vim file into your .vim/plugin directory
 * haml\_buf2html.rb file into your .vim/ruby directory
 
@@ -20,6 +21,7 @@ Copy:
 Usage
 =====
 You can render html from haml buffer in 5 ways:
+
 1. in Vim's terminal: 
         <c-h><c-p> or :call Haml2HtmlView()
 2. in new buffer: 
